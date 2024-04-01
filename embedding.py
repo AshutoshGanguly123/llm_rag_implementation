@@ -1,7 +1,7 @@
 import openai
 import os
 import numpy as np
-openai.api_key = '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'
+openai.api_key = ''
 
 def get_embedding(text, model="text-embedding-3-small"):
     text = text.replace("\n", " ")
