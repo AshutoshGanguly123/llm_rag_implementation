@@ -4,7 +4,7 @@
 import os
 import openai
 
-openai.api_key = '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'
+openai.api_key = 
 
 def get_summary_llm(transcript):
     prompt_text = (
