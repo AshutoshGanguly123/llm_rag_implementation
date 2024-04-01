@@ -2,7 +2,7 @@ import os
 from deepgram import DeepgramClient, PrerecordedOptions, FileSource
 # Ensure you import the necessary classes and methods correctly.
 
-API_KEY = '865b7543659256964fb6a048e8e4f1c9fcd935f7'
+API_KEY = ''
 DIRECTORY_PATH = '/Users/ashutoshganguly/Desktop/pixii_ai/data/mp4'
 TRANSCRIPTS_DIRECTORY = '/Users/ashutoshganguly/Desktop/pixii_ai/data/transcripts'
 
