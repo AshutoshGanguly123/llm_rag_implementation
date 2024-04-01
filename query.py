@@ -5,7 +5,7 @@ import os
 
 query = "How to make a lamb?"
 
-openai.api_key = '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'
+openai.api_key = ''
 # Load DB vectors
 db_vectors = np.load('/Users/ashutoshganguly/Desktop/pixii_ai/data/embeddings/embeddings_title.npy')
 #print("Loaded DB vectors:", db_vectors.shape)
