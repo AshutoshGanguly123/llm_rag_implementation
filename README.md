@@ -1,2 +1,2 @@
 # llm_rag_implementation
-Retrieval Augmented Generation using llm and embedding models for French cuisines
+Retrieval Augmented Generation for returning wikiHow styled articles for French cuisines using gemini, gpt and embedding models.
